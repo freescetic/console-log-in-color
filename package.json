@@ -1,0 +1,23 @@
+{
+  "name": "console-log-in-color",
+  "version": "1.0.0",
+  "description": "A npm package to console.log or print in desired color",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freescetic/console-log-in-color.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Ajay Vikhram S M",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/freescetic/console-log-in-color/issues"
+  },
+  "homepage": "https://github.com/freescetic/console-log-in-color#readme"
+}
