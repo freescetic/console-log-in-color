@@ -1,8 +1,9 @@
 {
   "name": "console-log-in-color",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A npm package to console.log or print in desired color",
   "main": "index.cjs",
+  "types": "index.d.ts",
   "scripts": {
     "test": "npm run test"
   },
