@@ -24,7 +24,7 @@ npm install console-log-in-color
 
 1. **Import the function**
 ```javascript
-import { changePrintColor } from 'console-log-in-color';
+const { changePrintColor } = require('console-log-in-color');
 ```
 2. **Customize your console output**
 ```javascript
