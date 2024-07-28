@@ -38,4 +38,4 @@ function changePrintColor(color, toPrint) {
 // You can use the function like this
 // changePrintColor("Yellow", "The Sun is Yellow in color");
 
-
+module.exports = { changePrintColor };

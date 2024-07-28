@@ -35,6 +35,12 @@ changePrintColor("Blue", "Information: This is just a regular message.");
 // ... and so on for other colors
 ```
 
+3. **Executing the Code**
+```bash
+node somefile.js
+```
+some file should be the name of the file you are using this package.
+
 ## Available Colors
 
 1. Black
